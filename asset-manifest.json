@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_porftolio_practice/static/css/main.d3661547.css",
-    "main.js": "/react_porftolio_practice/static/js/main.ca87933e.js",
+    "main.js": "/react_porftolio_practice/static/js/main.be6f8b0a.js",
     "static/media/react.png": "/react_porftolio_practice/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/logo.png": "/react_porftolio_practice/static/media/logo.b498aae72703d853a6e7.png",
     "static/media/node.png": "/react_porftolio_practice/static/media/node.952a9ea986dcfa5229ad.png",
@@ -13,10 +13,10 @@
     "static/media/javascript.png": "/react_porftolio_practice/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react_porftolio_practice/index.html",
     "main.d3661547.css.map": "/react_porftolio_practice/static/css/main.d3661547.css.map",
-    "main.ca87933e.js.map": "/react_porftolio_practice/static/js/main.ca87933e.js.map"
+    "main.be6f8b0a.js.map": "/react_porftolio_practice/static/js/main.be6f8b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.d3661547.css",
-    "static/js/main.ca87933e.js"
+    "static/js/main.be6f8b0a.js"
   ]
 }
